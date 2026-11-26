@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DSNewLine Connect</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>DSNewLine Connect 0.3.0</title>
+      <description># Changelog
+
+## 0.3.0
+
+- Автообновление через NetSparkleUpdater (Ed25519, appcast на dsn-connect-releases)
+- Раздел «Обновления»: проверка, прогресс загрузки, «Обновить сейчас» / «Позже»
+- Перед установкой безопасно останавливается Connect Service; регистрация и SSH сохраняются
+- Служба Connect без консольного окна (WinExe)
+- Настройки скрыты до привязки ПК по коду
+- Понятная ошибка при неверном коде подключения
+- Детект потери туннеля/регистрации после удаления учреждения</description>
+      <pubDate>Thu, 26 Nov 2026 13:09:04 +03:00</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.0/DSNewLineConnectSetup-0.3.0.exe" sparkle:version="0.3.0" sparkle:shortVersionString="0.3.0" length="6963370" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="uzJOZWzmUKYp9YUS6wHX9gETEtuEwKoPI7yOkU1COb0syW+sy6ow8PWnL3XKsE+sYW8HisibVLKRjR6g/0OACQ==" />
+    </item>
+  </channel>
+</rss>
