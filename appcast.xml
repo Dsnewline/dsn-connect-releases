@@ -5,14 +5,15 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>DSNewLine Connect 0.3.5</title>
-      <description>## DSNewLine Connect 0.3.5
+      <title>DSNewLine Connect 0.3.6</title>
+      <description>## DSNewLine Connect 0.3.6
 
-- Тестовая сборка автообновления с 0.3.4</description>
-      <pubDate>Thu, 26 Nov 2026 14:38:51 +03:00</pubDate>
-      <sparkle:version>0.3.5</sparkle:version>
-      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.5/DSNewLineConnectSetup-0.3.5.exe" sparkle:version="0.3.5" sparkle:shortVersionString="0.3.5" length="79860214" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="Bhj7TCkdpDaPM/8jTDvLULAuvvecbI3PwjEvR28j/pvc9YGSeeMpL9cRQ6xVQ/Aka/y/sKCf5pPJ4UV7PLLzBA==" />
+- Исправлен защищённый канал: SSH-ключ с владельцем LocalSystem (служба снова поднимает туннель)
+- Служба при старте применяет ACL к ключу</description>
+      <pubDate>Thu, 26 Nov 2026 15:16:44 +03:00</pubDate>
+      <sparkle:version>0.3.6</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.6/DSNewLineConnectSetup-0.3.6.exe" sparkle:version="0.3.6" sparkle:shortVersionString="0.3.6" length="79839620" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="Rjzpn302mOw5mpjMB30CuV2SeX22KGBTJ3JvYI9gTpIyCKDcx2gUd6a6fzjCpezGDavYB976norFUVJvcyYLCQ==" />
     </item>
   </channel>
 </rss>
