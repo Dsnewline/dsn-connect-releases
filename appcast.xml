@@ -5,17 +5,14 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>DSNewLine Connect 0.3.3</title>
-      <description>## DSNewLine Connect 0.3.3
+      <title>DSNewLine Connect 0.3.4</title>
+      <description>## DSNewLine Connect 0.3.4
 
-- Тихое автообновление NetSparkle без браузера (проверка → скачать → установить)
-- «Проверить обновления» больше не открывает GitHub
-- Self-contained win-x64 (без отдельного .NET)
-- Автозапуск после установки</description>
-      <pubDate>Thu, 26 Nov 2026 14:23:35 +03:00</pubDate>
-      <sparkle:version>0.3.3</sparkle:version>
-      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.3/DSNewLineConnectSetup-0.3.3.exe" sparkle:version="0.3.3" sparkle:shortVersionString="0.3.3" length="79847909" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="nY6QRnMl1pLWPR4YYta8NpwFgjZesKItJElexW/dn2j7G6QEXPhr4IRQJi3Yn4Z3ftwcmwnUP6AlW087TDR7Ag==" />
+- Тестовая сборка автообновления с 0.3.3</description>
+      <pubDate>Thu, 26 Nov 2026 14:25:20 +03:00</pubDate>
+      <sparkle:version>0.3.4</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.4/DSNewLineConnectSetup-0.3.4.exe" sparkle:version="0.3.4" sparkle:shortVersionString="0.3.4" length="79856813" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="veMEh0JIUpbV7QlC8VFjuXdfWEpv+XvhzkHZeOzGlkKsQcKj5wtowM1Qs+HI0M03vE2EsRwPihpTQWVegoX7BA==" />
     </item>
   </channel>
 </rss>
