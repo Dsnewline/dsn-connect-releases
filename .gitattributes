@@ -1,0 +1,3 @@
+# NetSparkle Strict — signature is over exact appcast bytes; never let git rewrite line endings.
+appcast.xml text eol=lf
+appcast.xml.signature -text
