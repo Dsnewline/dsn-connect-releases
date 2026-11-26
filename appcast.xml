@@ -8,11 +8,13 @@
       <title>DSNewLine Connect 0.3.4</title>
       <description>## DSNewLine Connect 0.3.4
 
-- Тестовая сборка автообновления с 0.3.3</description>
-      <pubDate>Thu, 26 Nov 2026 14:25:20 +03:00</pubDate>
+- После «Авторизовать» снова запускается оригинальный клиент ЭНТ (если тумблер включён)
+- «Открыть кабинет» тоже учитывает тумблер в состоянии Ready
+- Исправлена подпись appcast.xml для NetSparkle Strict</description>
+      <pubDate>Thu, 26 Nov 2026 14:36:24 +03:00</pubDate>
       <sparkle:version>0.3.4</sparkle:version>
       <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.4/DSNewLineConnectSetup-0.3.4.exe" sparkle:version="0.3.4" sparkle:shortVersionString="0.3.4" length="79856813" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="veMEh0JIUpbV7QlC8VFjuXdfWEpv+XvhzkHZeOzGlkKsQcKj5wtowM1Qs+HI0M03vE2EsRwPihpTQWVegoX7BA==" />
+      <enclosure url="https://github.com/Dsnewline/dsn-connect-releases/releases/download/v0.3.4/DSNewLineConnectSetup-0.3.4.exe" sparkle:version="0.3.4" sparkle:shortVersionString="0.3.4" length="79847847" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="Mpvlvilw5Uc2A2wFduGIwMdb4G30Kd1N8R3pjZdCg5HzhdOHbRyb5QCl8VHn0a0JkA4BDWJfk9WMLGwk3UhUAQ==" />
     </item>
   </channel>
 </rss>
